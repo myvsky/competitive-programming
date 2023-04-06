@@ -36,11 +36,17 @@ int main()
     cin >> A >> B;
 
     // When A+B is not divisible by 3, it means that we can't set cakes by 3 in all the boxes
-    if ((A+B)%3!=0) cout << "-1";
+    if ((A + B) % 3 != 0) cout << "-1";
     else
     {
-        int n = (A+B)/3;
-        if (A >= n and B >= n) cout << A - n << " " << B - n;
+        // The maximum amount of boxes that can be made
+        int n = (A + B) / 3;
+
+        // A and B must be equal or greater than amount of boxes we have
+        if (A >= n and B >= n) 
+        // Number of boxes with one eclair and one croissant
+            cout << A - n << " " << B - n;
+        // Otherwise we can't place all the cakes
         else cout << -1;
     }
     return 0;
