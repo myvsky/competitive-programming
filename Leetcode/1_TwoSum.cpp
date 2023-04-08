@@ -43,9 +43,9 @@ int main()
 {
     int n, a, target;
     vector<int> nums;
-    cout << "Input size of nums:\n";
+    cout << "Input length of nums array:\n";
     cin >> n;
-    cout << "Input values of nums:\n";
+    cout << "Input values:\n";
     for (int i = 0; i < n ; i++)
     {
         cin >> a;
@@ -54,7 +54,7 @@ int main()
     cout << "Input target:\n";
     cin >> target;
     nums = Solution::twoSum(nums, target);
-    cout << "Result:\n"
+    cout << "Result:\n";
     for (int i = 0; i < nums.size(); i++) cout << nums[i] << " ";
 
     return 0;
