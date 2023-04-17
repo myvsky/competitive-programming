@@ -31,26 +31,30 @@ int main() {
     cin >> n;
 
     // Prepare binary search for finding square root of n
-    int l = 0;              // Left partition
-    int r = 1e9+1;   // Right partition
-    int m;                  // Middle partition
+    int l = 0;          // Left partition
+    int r = 1e9+1;      // Right partition
+    int m;              // Middle partition
 
     // Binary tree search
     while (r != l+1) {
         m = (l+r) / 2;
         (ll)m*m < n? l = m: r = m;
+        // In the end, we always get two numbers: r = l+1 and l = r-1 —– value boundaries of num
     }
 
-    // Left partition is always less or equal to n, so we use it. Don't forget to avoid the data types collision (ll and int)
-    if (n - (ll)l*l <= l+1) {
-        col = l+1;
+    // Num is in left partition
+    if (n - (ll)l*l <= (ll)(r)) {
+        col = r;
         row = n - (ll)l*l;
     }
+    // Num is in right partition
     else {
-        col = (ll)((l+1)*(l+1)) - n+1;
-        row = l+1;
+        col = (ll)(r*r) - n+1;
+        row = r;
     }
+    // Straight order for divisible by two cols
     if (l % 2 == 0) cout << col << " " << row;
+    // Reverse order for not divisible by two cols
     else cout << row << " " << col;
     return 0;
 }
