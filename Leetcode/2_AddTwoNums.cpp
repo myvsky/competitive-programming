@@ -50,35 +50,41 @@ public:
 };
 
 int main() {
-    // create the first linked list
-    int n;
-    cout << "Input values of first list in range [0; 9]. When finished, input -1.\n";
-    cin >> n;
-    ListNode* l1 = new ListNode(n);
-    ListNode* curr1 = l1;
-    while (cin >> n && n != -1) {
-        curr1->next = new ListNode(n);
-        curr1 = curr1->next;
-    }
+    // Amount of testcases
+    int T = 1;
+    cin >> T;
 
-    // create the second linked list
-    cout << "Input values of second list in range [0; 9]. When finished, input -1.\n";
-    cin >> n;
-    ListNode* l2 = new ListNode(n);
-    ListNode* curr2 = l2;
-    while (cin >> n && n != -1) {
-        curr2->next = new ListNode(n);
-        curr2 = curr2->next;
-    }
+    while (T--) {
+        // create the first linked list
+        int n;
+        cout << "Input values of first list in range [0; 9]. When finished, input -1.\n";
+        cin >> n;
+        ListNode* l1 = new ListNode(n);
+        ListNode* curr1 = l1;
+        while (cin >> n && n != -1) {
+            curr1->next = new ListNode(n);
+            curr1 = curr1->next;
+        }
 
-    // call the addTwoNumbers function
-    ListNode* result = Solution::addTwoNumbers(l1, l2);
+        // create the second linked list
+        cout << "Input values of second list in range [0; 9]. When finished, input -1.\n";
+        cin >> n;
+        ListNode* l2 = new ListNode(n);
+        ListNode* curr2 = l2;
+        while (cin >> n && n != -1) {
+            curr2->next = new ListNode(n);
+            curr2 = curr2->next;
+        }
 
-    // print the result
-    ListNode* curr3 = result;
-    while (curr3 != nullptr) {
-        cout << curr3->val << " ";
-        curr3 = curr3->next;
+        // call the addTwoNumbers function
+        ListNode* result = Solution::addTwoNumbers(l1, l2);
+
+        // print the result
+        ListNode* curr3 = result;
+        while (curr3 != nullptr) {
+            cout << curr3->val << " ";
+            curr3 = curr3->next;
+        }
     }
 
     return 0;

@@ -28,7 +28,7 @@ int main() {
     int T;
     cin >> T;
 
-    for (i64 i = 0; i < T; i++) foo();
+    while (T--) foo();
 
     return 0;
 }
