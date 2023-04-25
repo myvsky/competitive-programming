@@ -2,12 +2,12 @@
 
 #include <bits/stdc++.h>
 
-using i64 = long long;
+using ll = long long;
 
 using namespace std;
 
 void foo() {
-    i64 k;
+    ll k;
     cin >> k;
 
     // Factorial conversion here. x!+(x-1)! <=> (x-1)!(x+1), that's why we get x = k-1 as an answer:

@@ -1,4 +1,4 @@
-// Municipal stage, Krym, 2023
+// Municipal stage, Krym, 2022-2023
 
 /*
     Given 2 strings containing only lowercase latin characters. Need to return common chars.
@@ -10,7 +10,7 @@
 #define all(x) x.begin(), x.end();
 
 using namespace std;
-using i64 = long long;
+using ll = long long;
 using vll = vector<long long>;
 
 void foo() {

@@ -2,7 +2,7 @@
 
 #include <bits/stdc++.h>
 
-using i64 = long long;
+using ll = long long;
 
 using namespace std;
 

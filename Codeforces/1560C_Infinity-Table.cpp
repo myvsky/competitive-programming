@@ -3,14 +3,14 @@
 #include <bits/stdc++.h>
 
 using namespace std;
-using i64 = long long;
+using ll = long long;
 using vll = vector<long long>;
 
 void foo() {
-    i64 n;
+    ll n;
     cin >> n;
     // Find the high right square in range of which our n is
-    i64 k = ceil(sqrt(n));
+    ll k = ceil(sqrt(n));
 
     // 2*k is range between k^2 and (k-1)^2 excludively. It's important to understand.
     // We include the highest square num and exclude the lowest one, so we will play

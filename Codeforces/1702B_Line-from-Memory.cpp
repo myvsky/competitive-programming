@@ -2,7 +2,7 @@
 
 #include <bits/stdc++.h>
 
-using i64 = long long;
+using ll = long long;
 
 using namespace std;
 
@@ -10,7 +10,7 @@ void foo() {
     string s;
     cin >> s;
     set<char> vc;
-    i64 count = 0;
+    ll count = 0;
 
     // Just memorize 3 elements and clear it when it's more than 3
     for (int i = 0; i < s.size(); i++) {
