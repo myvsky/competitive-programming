@@ -1,4 +1,4 @@
-// Municipal stage, Krym, 2022-2023
+// Municipal stage, Krym, 2022-2023. Task 4
 
 /*
     Given integer N. Need to find maximum integer k, such that N=x^k. 2<=N<=10^18

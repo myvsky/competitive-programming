@@ -13,7 +13,10 @@ There's no Big O for time complexity evaluation in A-RSO. There's only maximum o
 
 |Stage|Num Of Q|Link|Solution|
 |-|-|-|-|
-|School|1|[Sirius](https://uts.sirius.online/#/contest/3166)|[S2Sirius1.cpp](https://github.com/mayevskaya/competitive-programming/blob/master/A-RSO/S2Sirius1.cpp)|
-|School|2|[Sirius](https://uts.sirius.online/#/contest/3166)|[S2Sirius2.cpp](https://github.com/mayevskaya/competitive-programming/blob/master/A-RSO/S2Sirius2.cpp)|
-|School|3|[Sirius](https://uts.sirius.online/#/contest/3166)|[S2Sirius3.cpp](https://github.com/mayevskaya/competitive-programming/blob/master/A-RSO/SSirius1.cpp)|
-
+|School|1|[Sirius, 2022-2023](https://uts.sirius.online/#/contest/3166)|[S2Sirius1.cpp](https://github.com/myvsky/competitive-programming/blob/master/A-RSO/S2Sirius1.cpp)|
+|School|2|[Sirius, 2022-2023](https://uts.sirius.online/#/contest/3166)|[S2Sirius2.cpp](https://github.com/myvsky/competitive-programming/blob/master/A-RSO/S2Sirius2.cpp)|
+|School|3|[Sirius, 2022-2023](https://uts.sirius.online/#/contest/3166)|[S2Sirius3.cpp](https://github.com/myvsky/competitive-programming/blob/master/A-RSO/S2Sirius3.cpp)|
+|School|4|[Sirius, 2022-2023](https://uts.sirius.online/#/contest/3166)|[S2Sirius4.cpp](https://github.com/myvsky/competitive-programming/blob/master/A-RSO/S2Sirius4.cpp)|
+Municipal|2|Krym, 2022-2023|[MK2.cpp](https://github.com/myvsky/competitive-programming/blob/master/A-RSO/MK2.cpp)
+Municipal|2|Krym, 2022-2023|[MK4.cpp](https://github.com/myvsky/competitive-programming/blob/master/A-RSO/MK4.cpp)
+Municipal|2|Krym, 2022-2023|[MK7.cpp](https://github.com/myvsky/competitive-programming/blob/master/A-RSO/MK7.cpp)

@@ -1,4 +1,4 @@
-// Municipal Stage, Krym, 2022-2023
+// Municipal Stage, Krym, 2022-2023. Task 7
 
 #include <bits/stdc++.h>
 
