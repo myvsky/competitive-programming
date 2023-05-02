@@ -5,8 +5,9 @@
 ---
 
 ### Where do I get the problems from A-RSO?
-1. [Sirius Courses](https://edu.sirius.online/#/contests_page/vos)
-2. [Olympiada.ru](https://olimpiada.ru/activity/73/tasks/2021?class=10&year=2021)
+1. Sirius Courses
+2. Olympiada.ru
+3. Codeforces Gym
 
 ### Remarks
 There's no Big O for time complexity evaluation in A-RSO. There's only maximum of programm's performance time. That's why usually schoolchildren use only C++ for solving informatics A-RSO problems.

@@ -35,6 +35,8 @@ void foo() {
     cin >> a >> b >> k >> m;
     
     // Find amount of horizontal cuts
+    // Following to equation (h + 1)(k - h + 1), our c member in formula [D = b*b - 4ac] 
+    // is m - k - 1
     h = findRoots(k, m - k - 1);
     if (h == -1) { cout << "-1\n"; return; }
     v = k - h;
