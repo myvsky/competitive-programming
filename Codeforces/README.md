@@ -1,7 +1,6 @@
-# Codeforces Problemset
-## C++ Solutions
+# Codeforces Room
 
-### **Table of Contents (filtered by level)**
+### **Table of Contents (filtered by level and div number)**
 N|Div|Level|Link To The Problem|Solution|
 -|-|-|-|-|
 1|110|A|[Nearly Lucky Number](https://codeforces.com/problemset/problem/110/A)|[110A_NearlyLuckyNumber.cpp](https://github.com/myvsky/competitive-programming/blob/master/Codeforces/110A_NearlyLuckyNumber.cpp)|

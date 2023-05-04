@@ -1,6 +1,13 @@
 # Competitive Programming
 This repository contains my solutions from different problemset resources, such as Leetcode, Codewars, Codeforces, etc. C++ programming laguage used.
 
+Room|Description|Link
+-|-|-
+A-RSO|Solutions from [All-Russian School Olympiad](https://olimpiada.ru)|[\*Tap\*](https://github.com/myvsky/competitive-programming/blob/master/A-RSO/)
+Codeforces|Solutions from [Codeforces](https://codeforces.com)|[\*Tap\*](https://github.com/myvsky/competitive-programming/blob/master/Codeforces/)
+Leetcode|Solutions from [Leetcode](https://leetcode.com)|[\*Tap\*](https://github.com/myvsky/competitive-programming/blob/master/Leetcode/)
+Playground|Practicing explored alrogithms|[\*Tap\*](https://github.com/myvsky/competitive-programming/blob/master/Playground/)
+
 ---
 ### _Find me at:_
 <a href="https://leetcode.com/mayevskaya">

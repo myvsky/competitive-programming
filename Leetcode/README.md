@@ -1,5 +1,4 @@
-# Leetcode Problemset
-## C++ Solutions
+# Leetcode Room
 
 |N|Level|Link|Solution|
 |-|-|-|-|
