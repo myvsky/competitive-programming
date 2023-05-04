@@ -11,16 +11,3 @@ public:
         return -1;
     }
 };
-
-int main() {
-    // Amount of testcases
-    int T = 1;
-    cin >> T;
-    
-    string haystack, needle;
-    while (T--) {
-        cin >> haystack >> needle;
-        cout << Solution::strStr(haystack, needle);
-    }
-    return 0;
-}
