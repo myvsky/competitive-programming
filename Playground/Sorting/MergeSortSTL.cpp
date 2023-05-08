@@ -2,7 +2,6 @@
 // with recursion, we use std::merge to merge the code
 
 #include <iostream>
-#include <algorithm>
 
 using namespace std;
 
