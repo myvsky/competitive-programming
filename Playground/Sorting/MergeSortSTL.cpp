@@ -36,6 +36,9 @@ void foo() {
 
     mergeSort(arr, l, r);
 
+    // Reverse ordered sort
+    // reverse(arr, arr + sizeof(arr) / sizeof(int));
+
     for (auto x: arr) cout << x << "\t";
     cout << "\n";
 }

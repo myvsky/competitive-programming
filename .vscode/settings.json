@@ -28,6 +28,8 @@
         "list": "cpp",
         "regex": "cpp",
         "valarray": "cpp",
-        "type_traits": "cpp"
+        "type_traits": "cpp",
+        "random": "cpp",
+        "ratio": "cpp"
     }
 }
