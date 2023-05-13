@@ -30,6 +30,9 @@
         "valarray": "cpp",
         "type_traits": "cpp",
         "random": "cpp",
-        "ratio": "cpp"
+        "ratio": "cpp",
+        "memory": "cpp",
+        "queue": "cpp",
+        "stack": "cpp"
     }
 }
