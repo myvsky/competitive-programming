@@ -14,11 +14,14 @@ There's no Big O for time complexity evaluation in A-RSO. There's only maximum o
 
 Year|Stage|Num Of Q|Link To The Problem|Solution|
 -|-|-|-|-|
-2023|School|1|[Sirius, 2022-2023](https://uts.sirius.online/#/contest/3166)|[S2Sirius1_2023.cpp](https://github.com/myvsky/competitive-programming/blob/master/A-RSO/S2Sirius1_2023.cpp)|
-2023|School|2|[Sirius, 2022-2023](https://uts.sirius.online/#/contest/3166)|[S2Sirius2_2023.cpp](https://github.com/myvsky/competitive-programming/blob/master/A-RSO/S2Sirius2_2023.cpp)|
-2023|School|3|[Sirius, 2022-2023](https://uts.sirius.online/#/contest/3166)|[S2Sirius3_2023.cpp](https://github.com/myvsky/competitive-programming/blob/master/A-RSO/S2Sirius3_2023.cpp)|
-2023|School|4|[Sirius, 2022-2023](https://uts.sirius.online/#/contest/3166)|[S2Sirius4_2023.cpp](https://github.com/myvsky/competitive-programming/blob/master/A-RSO/S2Sirius4_2023.cpp)|
-2023|Municipal|2|Krym, 2022-2023|[MK2_2023.cpp](https://github.com/myvsky/competitive-programming/blob/master/A-RSO/MK2_2023.cpp)
-2023|Municipal|4|Krym, 2022-2023|[MK4_2023.cpp](https://github.com/myvsky/competitive-programming/blob/master/A-RSO/MK4_2023.cpp)
-2023|Municipal|7|Krym, 2022-2023|[MK7_2023.cpp](https://github.com/myvsky/competitive-programming/blob/master/A-RSO/MK7_2023.cpp)
-2023|Regional|1|[Regional All-Russian Stage, 2022-2023](https://codeforces.com/gym/104155/problem/1)|[R1_2023.cpp](https://github.com/myvsky/competitive-programming/blob/master/A-RSO/R1_2023.cpp)
+2023|Invite|1|[Sirius, 2023](https://uts.sirius.online/?user_code=5183/sirius5183/0/v689r7q3)|[ISirius1_2023.cpp](https://github.com/myvsky/competitive-programming/blob/master/A-RSO/Invite/ISirius1_2023.cpp)
+2023|School|1|[Sirius, 2022-2023](https://uts.sirius.online/#/contest/3166)|[S2Sirius1_2023.cpp](https://github.com/myvsky/competitive-programming/blob/master/A-RSO/School/2Sirius1_2023.cpp)|
+2023|School|2|[Sirius, 2022-2023](https://uts.sirius.online/#/contest/3166)|[S2Sirius2_2023.cpp](https://github.com/myvsky/competitive-programming/blob/master/A-RSO/School/2Sirius2_2023.cpp)|
+2023|School|3|[Sirius, 2022-2023](https://uts.sirius.online/#/contest/3166)|[S2Sirius3_2023.cpp](https://github.com/myvsky/competitive-programming/blob/master/A-RSO/School/2Sirius3_2023.cpp)|
+2023|School|4|[Sirius, 2022-2023](https://uts.sirius.online/#/contest/3166)|[S2Sirius4_2023.cpp](https://github.com/myvsky/competitive-programming/blob/master/A-RSO/School/2Sirius4_2023.cpp)|
+2023|Municipal|2|Krym, 2022-2023|[K2_2023.cpp](https://github.com/myvsky/competitive-programming/blob/master/A-RSO/Municipal/K2_2023.cpp)
+2023|Municipal|4|Krym, 2022-2023|[K4_2023.cpp](https://github.com/myvsky/competitive-programming/blob/master/A-RSO/Municipal/K4_2023.cpp)
+2023|Municipal|7|Krym, 2022-2023|[K7_2023.cpp](https://github.com/myvsky/competitive-programming/blob/master/A-RSO/Municipal/K7_2023.cpp)
+2023|Regional|1|[Regional All-Russian Stage, 2022-2023](https://codeforces.com/gym/104155/problem/1)|[1_2023.cpp](https://github.com/myvsky/competitive-programming/blob/master/A-RSO/Regional/1_2023.cpp)
+2023|Regional|2|[Regional All-Russian Stage, 2022-2023](https://codeforces.com/gym/104155/problem/2)|[2_2023.cpp](https://github.com/myvsky/competitive-programming/blob/master/A-RSO/Regional/2_2023.cpp)
+2023|Regional|3|[Regional All-Russian Stage, 2022-2023](https://codeforces.com/gym/104155/problem/3)|[3_2023.cpp](https://github.com/myvsky/competitive-programming/blob/master/A-RSO/Regional/3_2023.cpp)
