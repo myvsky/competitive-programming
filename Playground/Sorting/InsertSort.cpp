@@ -24,18 +24,3 @@ void foo() {
     for (auto x: arr) cout << x << "\t";
     cout << "\n";
 }
-
-int main() {
-
-    int T;
-
-    // Testcase files
-    freopen("i.txt", "r", stdin);
-    freopen("o.txt", "w", stdout);
-
-    cin >> T;
-
-    while (T--) foo();
-
-    return 0;
-}

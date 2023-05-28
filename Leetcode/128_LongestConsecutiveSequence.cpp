@@ -27,7 +27,7 @@ public:
     }
     int longestConsecutive(vector<int>& nums) {
         if (!nums.size()) return 0;
-        // Create graph, numerize its nodes
+        // Create tree, numerize its nodes
         for (const auto& x: nums) {
             mp[x] = x;
             rank[x] = 1;
