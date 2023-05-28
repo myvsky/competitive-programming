@@ -4,8 +4,9 @@ This repository contains my solutions from different problemset resources, such 
 Room|Description|Link
 -|-|-
 A-RSO|Solutions from [All-Russian School Olympiad](https://olimpiada.ru)|[\*Tap\*](https://github.com/myvsky/competitive-programming/blob/master/A-RSO/)
-Codeforces|Solutions from [Codeforces](https://codeforces.com)|[\*Tap\*](https://github.com/myvsky/competitive-programming/blob/master/Codeforces/)
-Leetcode|Solutions from [Leetcode](https://leetcode.com)|[\*Tap\*](https://github.com/myvsky/competitive-programming/blob/master/Leetcode/)
+Listed|Solutions from [listed olympiads](https://olimpiada.ru/article/1045#iikt)|[\*Tap\*](https://github.com/myvsky/competitive-programming/blob/master/Listed/)
+Codeforces|Solutions from [Codeforces.com](https://codeforces.com)|[\*Tap\*](https://github.com/myvsky/competitive-programming/blob/master/Codeforces/)
+Leetcode|Solutions from [Leetcode.com](https://leetcode.com)|[\*Tap\*](https://github.com/myvsky/competitive-programming/blob/master/Leetcode/)
 Playground|Practicing explored alrogithms|[\*Tap\*](https://github.com/myvsky/competitive-programming/blob/master/Playground/)
 
 ---

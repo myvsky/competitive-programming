@@ -57,6 +57,6 @@ class ByRank {
 
     void build(int v) {
         parent[v] = v;
-        rank[v] = 1;
+        rank[v] = 0;
     }
 };
