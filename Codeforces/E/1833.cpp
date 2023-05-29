@@ -30,15 +30,19 @@ void foo() {
     vector<bool> vis(n);
     // Just counters
     int bamboos = 0, cycles = 0;
+    // Breadth-first search (BFS) on a graph
     for (int i = 0; i < n; i++) {
         if (!vis[i]) {
             vis[i] = true;
+            // Queue for processing nodes in the order they are discovered
             queue<int> q;
             q.push(i);
+            // Store nodes in a current connected component
             vector<int> component = {i};
             while (!q.empty()) {
                 int u = q.front();
                 q.pop();
+                // Check if the neighbours of node have been visited
                 for (int v: g[u]) {
                     if (!vis[v]) {
                         vis[v] = true;
@@ -49,6 +53,7 @@ void foo() {
             }
             bool bamboo = false;
             for (int j: component) { 
+                // Find all the bamboos in the nodes
                 if (d[j] == 1) { 
                     bamboo = true; 
                     break; 
