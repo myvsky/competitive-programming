@@ -4,14 +4,25 @@
 
 using namespace std;
 
+int s(int p, int u, int k) {
+    if (p > u) swap(p, u);
+    int diff = u - p,
+    lp = diff / k,
+    a1 = lp + diff % k,
+    a2 = (lp + 1) + (k - diff % k);
+    return min(a1, a2);
+}
+
 void foo () {
-    int n, k, p, u, res = 0, fk, bk;
+    int n, k, p, u;
     cin >> n >> k >> p >> u;
-    if (p < k) bk = 1 + u / k + (u - 1) % k;
-    if (p > n - k) fk = n - u/(n-k) + u % (n-k);
-    while (p != u) {
-    }
-    cout << bk;
+    cout << min(
+        s(p, u, k),
+        min(
+            (p - 1 + k - 1) / k + s(1, u, k),
+            (n - p + k - 1) / k + s(n, u, k))
+    );
+
 }
 
 int main() {
