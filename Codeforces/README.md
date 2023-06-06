@@ -16,6 +16,8 @@ Solutions from https://codeforces.com
 1768|A|[Multiply of Factorial](https://codeforces.com/problemset/problem/1768/A)|[1768.cpp](https://github.com/myvsky/competitive-programming/blob/master/Codeforces/A/1768.cpp)|
 -|-|-|-
 266|B|[Queue at School](https://codeforces.com/problemset/problem/266/B)|[266.cpp](https://github.com/myvsky/competitive-programming/blob/master/Codeforces/B/266.cpp)|
+1028|B|[Unnatural Conditions](https://codeforces.com/problemset/problem/1028/B)|[1028.cpp](https://github.com/myvsky/competitive-programming/blob/master/Codeforces/B/1028.cpp)|
+1611|B|[Team Composition: Programmers and Mathematicians](https://codeforces.com/problemset/problem/1611/B)|[1702.cpp](https://github.com/myvsky/competitive-programming/blob/master/Codeforces/B/1611.cpp)|
 1702|B|[Polycarp Writes a String from Memory](https://codeforces.com/problemset/problem/1702/B)|[1702.cpp](https://github.com/myvsky/competitive-programming/blob/master/Codeforces/B/1702.cpp)|
 1772|B|[Matrix Rotation](https://codeforces.com/problemset/problem/1772/B)|[1772.cpp](https://github.com/myvsky/competitive-programming/blob/master/Codeforces/1772.cpp)|
 -|-|-|-
