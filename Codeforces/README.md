@@ -3,8 +3,8 @@
 Solutions from https://codeforces.com
 
 ### **Table of Contents (filtered by level)**
-|Div|Level|Link To The Problem|Solution|
-|-|-|-|-|
+Div|Level|Link To The Problem|Solution|
+-|-|-|-|
 4|A|[Watermelon](https://codeforces.com/problemset/problem/4/A)|[4.cpp](https://github.com/myvsky/competitive-programming/blob/master/Codeforces/A/4.cpp)|
 110|A|[Nearly Lucky Number](https://codeforces.com/problemset/problem/110/A)|[110.cpp](https://github.com/myvsky/competitive-programming/blob/master/Codeforces/A/110.cpp)|
 115|A|[Party](https://codeforces.com/problemset/problem/115/A)|[115.cpp](https://github.com/myvsky/competitive-programming/blob/master/Codeforces/A/115.cpp)|
@@ -22,5 +22,7 @@ Solutions from https://codeforces.com
 1772|B|[Matrix Rotation](https://codeforces.com/problemset/problem/1772/B)|[1772.cpp](https://github.com/myvsky/competitive-programming/blob/master/Codeforces/1772.cpp)|
 -|-|-|-
 1560|C|[Infinity Table](https://codeforces.com/problemset/problem/1560/C)|[1560.cpp](https://github.com/myvsky/competitive-programming/blob/master/Codeforces/C/1560.cpp)|
+-|-|-|-
+1348|D|[Phoenix and Science](https://codeforces.com/contest/1348/problem/D)|[1348.cpp](https://github.com/myvsky/competitive-programming/blob/master/Codeforces/D/1348.cpp)
 -|-|-|-
 1833|E|[Round Dance](https://codeforces.com/problemset/problem/1833/E)|[1833.cpp](https://github.com/myvsky/competitive-programming/blob/master/Codeforces/E/1833.cpp)|
