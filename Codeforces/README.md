@@ -25,8 +25,10 @@ Div|Level|Link To The Problem|Solution|
 -|-|-|-
 1560|C|[Infinity Table](https://codeforces.com/problemset/problem/1560/C)|[1560.cpp](https://github.com/myvsky/competitive-programming/blob/master/Codeforces/C/1560.cpp)|
 1722|C|[Word Game](https://codeforces.com/problemset/problem/1722/C)|[1722.cpp](https://github.com/myvsky/competitive-programming/blob/master/Codeforces/C/1722.cpp)|
+1840|C|[Ski Resort](https://codeforces.com/problemset/problem/1840/C)|[1840.cpp](https://github.com/myvsky/competitive-programming/blob/master/Codeforces/C/1840.cpp)|
 -|-|-|-
 1348|D|[Phoenix and Science](https://codeforces.com/contest/1348/problem/D)|[1348.cpp](https://github.com/myvsky/competitive-programming/blob/master/Codeforces/D/1348.cpp)
+1666|D|[Deletive Editing](https://codeforces.com/contest/1666/problem/D)|[1666.cpp](https://github.com/myvsky/competitive-programming/blob/master/Codeforces/D/1666.cpp)
 -|-|-|-
 1833|E|[Round Dance](https://codeforces.com/problemset/problem/1833/E)|[1833.cpp](https://github.com/myvsky/competitive-programming/blob/master/Codeforces/E/1833.cpp)|
 -|-|-|-
