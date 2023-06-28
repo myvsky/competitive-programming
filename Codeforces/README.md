@@ -18,6 +18,7 @@ Div|Level|Link To The Problem|Solution|
 -|-|-|-
 266|B|[Queue at School](https://codeforces.com/problemset/problem/266/B)|[266.cpp](https://github.com/myvsky/competitive-programming/blob/master/Codeforces/B/266.cpp)|
 1028|B|[Unnatural Conditions](https://codeforces.com/problemset/problem/1028/B)|[1028.cpp](https://github.com/myvsky/competitive-programming/blob/master/Codeforces/B/1028.cpp)|
+1093|B|[Letters Rearranging](https://codeforces.com/problemset/problem/1093/B)|[1093.cpp](/Codeforces/1093.cpp)|
 1398|B|[Substring Removal Game](https://codeforces.com/problemset/problem/1398/B)|[1398.cpp](https://github.com/myvsky/competitive-programming/blob/master/Codeforces/B/1398.cpp)|
 1611|B|[Team Composition: Programmers and Mathematicians](https://codeforces.com/problemset/problem/1611/B)|[1702.cpp](https://github.com/myvsky/competitive-programming/blob/master/Codeforces/B/1611.cpp)|
 1702|B|[Polycarp Writes a String from Memory](https://codeforces.com/problemset/problem/1702/B)|[1702.cpp](https://github.com/myvsky/competitive-programming/blob/master/Codeforces/B/1702.cpp)|
