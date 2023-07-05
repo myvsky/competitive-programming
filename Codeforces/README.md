@@ -29,6 +29,7 @@ Div|Level|Link To The Problem|Solution|
 1722|C|[Word Game](https://codeforces.com/problemset/problem/1722/C)|[1722.cpp](/C/1722.cpp)|
 1790|C|[Permutation](https://codeforces.com/problemset/problem/1790/C)|[1790.cpp](/C/1790.cpp)|
 1793|C|[Dora and Search](https://codeforces.com/problemset/problem/1793/C)|[1793.cpp](/C/1793.cpp)|
+1839|C|[Insert Zero and Invert Prefix](https://codeforces.com/problemset/problem/1839/C)|[1839.cpp](/C/1839.cpp)|
 1840|C|[Ski Resort](https://codeforces.com/problemset/problem/1840/C)|[1840.cpp](/C/1840.cpp)|
 -|-|-|-
 1348|D|[Phoenix and Science](https://codeforces.com/contest/1348/problem/D)|[1348.cpp](/D/1348.cpp)
