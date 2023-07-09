@@ -38,5 +38,6 @@ Div|Level|Link To The Problem|Solution|
 1840|D|[Wooden Toy Festival](https://codeforces.com/contest/1840/problem/D)|[1840.cpp](/D/1840.cpp)
 -|-|-|-
 1833|E|[Round Dance](https://codeforces.com/problemset/problem/1833/E)|[1833.cpp](/E/1833.cpp)|
+1840|E|[Character Blocking](https://codeforces.com/problemset/problem/1840/E)|[1833.cpp](/E/1833.cpp)|
 -|-|-|-
 1352|G|[Special Permutation](https://codeforces.com/problemset/problem/1352/G)|[1352.cpp](/G/1352.cpp)
