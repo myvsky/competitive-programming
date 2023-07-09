@@ -31,9 +31,11 @@ Div|Level|Link To The Problem|Solution|
 1793|C|[Dora and Search](https://codeforces.com/problemset/problem/1793/C)|[1793.cpp](/C/1793.cpp)|
 1839|C|[Insert Zero and Invert Prefix](https://codeforces.com/problemset/problem/1839/C)|[1839.cpp](/C/1839.cpp)|
 1840|C|[Ski Resort](https://codeforces.com/problemset/problem/1840/C)|[1840.cpp](/C/1840.cpp)|
+1841|C|[Ranom Numbers](https://codeforces.com/problemset/problem/1841/C)|[1841.cpp](/C/1841.cpp)|
 -|-|-|-
 1348|D|[Phoenix and Science](https://codeforces.com/contest/1348/problem/D)|[1348.cpp](/D/1348.cpp)
 1666|D|[Deletive Editing](https://codeforces.com/contest/1666/problem/D)|[1666.cpp](/D/1666.cpp)
+1840|D|[Wooden Toy Festival](https://codeforces.com/contest/1840/problem/D)|[1840.cpp](/D/1840.cpp)
 -|-|-|-
 1833|E|[Round Dance](https://codeforces.com/problemset/problem/1833/E)|[1833.cpp](/E/1833.cpp)|
 -|-|-|-
